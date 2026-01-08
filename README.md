@@ -1,7 +1,5 @@
-# sec-filings-risk-pipeline
-Python pipeline for extracting and structuring risk and vulnerability disclosures from SEC EDGAR filings across large public companies.
-
 # SEC Filings Risk Pipeline (EDGAR)
+Python pipeline for extracting and structuring risk and vulnerability disclosures from SEC EDGAR filings across large public companies.
 
 ## Overview
 This project implements a Python-based pipeline to extract, clean, and structure risk and vulnerability disclosures from SEC EDGAR filings across large public companies. The workflow focuses on parsing unstructured regulatory text and preparing analysis-ready datasets for downstream research and modeling.
